@@ -6,7 +6,7 @@ Convert TJA to Sonolus Taiko level
 
 Add repository folder to PATH in order to access script in other directories.
 
-If you want to extract bgm, you also need [ffmepg](https://ffmpeg.org/) installed and in your PATH.
+If you want to extract bgm, you also need [ffmpeg](https://ffmpeg.org/) installed and in your PATH.
 
 ## Usage
 
@@ -14,7 +14,7 @@ Find and download Taiko map you want to convert (this will be a folder with `.tj
 
 Generate folder with level using:
 ```
-tja2sono.py -x <FOLDER APTH>
+tja2sono.py -x <FOLDER PATH>
 ```
 
 After geneeration, you can change out `cover.png` and update `info.json` in the outputted level folder.

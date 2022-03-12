@@ -17,6 +17,6 @@ Generate folder with level using:
 tja2sono.py -x <FOLDER PATH>
 ```
 
-After geneeration, you can change out `cover.png` and update `info.json` in the outputted level folder.
+After generation, you can change out `cover.png` and update `info.json` in the outputted level folder.
 
 Final level folder can be moved to your Sonolus server's `source/levels` and packed with `sonolus-pack`.
